@@ -69,3 +69,6 @@ Then open `http://localhost:8000`.
 
 
 
+
+## 2023 Update Log
+- 2023-02-14: Maintenance note added.
