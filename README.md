@@ -73,3 +73,4 @@ Then open `http://localhost:8000`.
 ## 2023 Update Log
 - 2023-02-14: Maintenance note added.
 - 2023-06-21: Small UI text cleanup tracked.
+- 2023-11-03: Project housekeeping note recorded.
