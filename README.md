@@ -62,7 +62,10 @@ Then open `http://localhost:8000`.
 - Add edit-in-place support for tasks
 - Replace the inline `onclick` handler with a JavaScript event listener
 
-## Screenshot Idea
+## Screenshot 
 
-If you want, a project screenshot or animated preview can be added here later to make the README more polished.
+
+<img width="734" height="936" alt="image" src="https://github.com/user-attachments/assets/1de147fb-1227-4714-9e45-4255e8c58f27" />
+
+
 
